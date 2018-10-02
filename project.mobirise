@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "jewel-fit.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -39,7 +39,7 @@
     "screenshot": "screenshot.png"
   },
   "pages": {
-    "jewel-fit.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "Jewel-Fit",
